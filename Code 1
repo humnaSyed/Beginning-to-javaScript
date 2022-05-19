@@ -1,0 +1,6 @@
+console.log("I am new at java script");
+let myName = "Humna";
+console.log("My name is ", myName);
+let country = "Pakistan";
+console.log("I Live in ", country);
+console.log("I want to be a Web Developer");
